@@ -1,0 +1,13 @@
+==========================================
+            FACTURE PHARMACIE             
+==========================================
+Facture N° : 1
+Client ID  : 1
+Date       : 2026-05-29
+Ordonnance : Sans ordonnance
+------------------------------------------
+Détails des achats :
+- Médicament ID: 1 | Qté: 2 | Prix Unitaire: 18.5 DH | Sous-total: 37.0 DH
+------------------------------------------
+TOTAL À PAYER : 37.0 DH
+==========================================

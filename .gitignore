@@ -1,0 +1,28 @@
+# Java compiled files
+bin/
+*.class
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Python environment 
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+python_app
+
+# Logs
+*.log
+
+# Secrets
+.env
