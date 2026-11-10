@@ -6,7 +6,7 @@ Application Java desktop permettant de gerer les operations principales d'une ph
 
 | Element | Detail |
 | --- | --- |
-| Sujet | Sujet 4 : Systeme de gestion d'une pharmacie |
+| Sujet | Systeme de gestion d'une pharmacie |
 | Annee universitaire | 2025/2026 |
 | Encadrant | Pr. Said El Kafhali |
 | Type d'application | Application desktop |
